@@ -1,0 +1,2 @@
+# HerenciaSimple
+INICIO
